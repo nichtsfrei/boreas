@@ -21,7 +21,7 @@ cmake_minimum_required (VERSION 3.0)
 message ("-- Configuring Boreas...")
 
 project (boreas
-  VERSION 22.5.0
+  VERSION 0.3.1
   LANGUAGES C)
 
 if (POLICY CMP0005)
